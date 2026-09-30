@@ -2,7 +2,7 @@
 
 Um exercício simples de REST API com Spring Boot para gerenciamento de um catálogo de produtos. O projeto utiliza uma lista em memória para realizar operações básicas de CRUD, sem a necessidade de um banco de dados externo.
 
-Integrantes: Patrícia e Ray Dias.
+Integrantes: Patricia Isabella e Ray Dias.
 
 ## Funcionalidades
 
